@@ -231,5 +231,5 @@ hello:
 
 运行应用，浏览器访问`/hello`请求，测试结果：
 
-![自定义starter测试结果](H:\Documents Library\IDEA Projects\READMEimage\springboot_custom_starter_测试结果.JPG)
+![自定义starter测试结果](https://img-blog.csdnimg.cn/1e1043730f134ce39277605821201d7f.JPG#pic_center)
 
