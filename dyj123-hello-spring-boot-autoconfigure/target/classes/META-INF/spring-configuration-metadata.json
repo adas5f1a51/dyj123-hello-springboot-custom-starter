@@ -1,0 +1,18 @@
+{
+  "groups": [
+    {
+      "name": "hello",
+      "type": "pers.dyj123.hello.spring.boot.autoconfigure.HelloProperties",
+      "sourceType": "pers.dyj123.hello.spring.boot.autoconfigure.HelloProperties"
+    }
+  ],
+  "properties": [
+    {
+      "name": "hello.message",
+      "type": "java.lang.String",
+      "description": "欢迎信息(Hello message) default value: `Hello World!`",
+      "sourceType": "pers.dyj123.hello.spring.boot.autoconfigure.HelloProperties"
+    }
+  ],
+  "hints": []
+}
